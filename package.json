@@ -1,0 +1,14 @@
+{
+  "name": "node-sql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server,js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "klint",
+  "license": "MIT",
+  "dependencies": {
+    "mysql": "^2.10.2"
+  }
+}
